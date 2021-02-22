@@ -44,6 +44,12 @@ resources.
 
 -- Matthew Prince, co-founder and CEO of CloudFlare
 
+NGINX is an indispensable component of our hosting stack and we have always been impressed by how it adds a wonderful flavor to the recipe. Thanks to the varied implementation scenarios, great options, and performance, NGINX has played an important role in growing our customer base and delivering speed and performance that exceeds customers' expectations.
+
+While Apache remains a part of our stack, we trust NGINX to take deliver blazing fast page load speed and a smooth experience to our customers who host everything from corporate websites to eLearning platforms to ecommerce shops on the Cloudways Platform.
+
+-- `Cloudways <https://www.cloudways.com/en/>`__ 
+
 
 Both servers [Apache and NGINX] are capable of serving a huge number of requests per
 second, but Apache's performance start decreasing as you add more concurrent
